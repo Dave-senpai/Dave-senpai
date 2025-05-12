@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dave-senpai
+- 👋 Hi, I’m Dave
 - 👀 I’m interested in anime and tech
 - 🌱 I’m currently learning web designing 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me telegram @Davesenpai_0
+- 📫 How to reach me Instagram @_khodion__
 
 <!---
 Dave-senpai/Dave-senpai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
